@@ -6,7 +6,7 @@ Gas fee is the fee paid to perform a transaction. The gas fee is determined base
 
 The party sending the transaction sets a gas limit when performing the transaction. The gas limit specifies the maximum amount of gas that can be spent on a transaction. If the transaction uses more gas than the gas limit, the transaction fails and the gas fee is lost. The gas limit is used to control how complex or costly the party performing the transaction can make the transaction.
 
-<img width="600" src="https://github.com/umaysafak/Blockchain-Fundamentals/assets/83416728/53f94b9b-47b4-4a98-81e8-1f8293147a64">
+<img src="https://github.com/umaysafak/Blockchain-Fundamentals/assets/83416728/53f94b9b-47b4-4a98-81e8-1f8293147a64">
 
 The gas fee is calculated by multiplying the amount of gas used in the transaction by the gas price. The gas price is the unit price of gas and is a value determined by the party performing the transaction. The gas fee is calculated as gas fee = gas amount * gas price.
 
