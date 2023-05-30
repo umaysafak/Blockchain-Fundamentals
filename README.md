@@ -1,4 +1,4 @@
-# blockchain-Fundamentals
+# Blockchain-Fundamentals
 
 [1-Decentralized]() <br>
 [2-Blockchain]() <br>
