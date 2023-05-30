@@ -14,7 +14,7 @@ A Hard Fork means that all participants in the network must accept the update. O
 
 ![Fork-14](https://github.com/umaysafak/Blockchain-Fundamentals/assets/83416728/97b86b3c-56c7-4fd2-880d-5afa33183a8b)
 
-## Soft Fork
+## Soft Fork:
   
 A Soft Fork is an update in the blockchain protocol where backward-compatible changes are made. This type of update means that a restrictive change has been made to the rules of the existing blockchain. That is, new blocks and transactions are also considered valid by old software that is compatible with the update.
 
